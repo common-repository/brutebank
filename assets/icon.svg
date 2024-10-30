@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.1.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#logo_1_);}
+</style>
+<linearGradient id="logo_1_" gradientUnits="userSpaceOnUse" x1="193.4184" y1="61.9408" x2="65.2769" y2="169.4642">
+	<stop  offset="0" style="stop-color:#F37F8F"/>
+	<stop  offset="1" style="stop-color:#FCC362"/>
+</linearGradient>
+<path id="logo" class="st0" d="M158.9,63.1l47.9,47.9l-34,34l-13.9,13.9l-34,34l-75.7-75.7l13.9-13.9l27.8,27.8L111,111L83.2,83.2
+	l13.9-13.9l27.8,27.8L158.9,63.1 M158.9,131.1L179,111l-20.1-20.1L138.8,111L158.9,131.1 M124.9,165.1L145,145l-5-5l-15.1-15.1
+	L104.8,145L124.9,165.1 M158.9,35.3L145,49.2l-20.1,20.1L111,55.4L97.1,41.5L83.2,55.4L69.3,69.3L55.4,83.2l0,0l-6.2,6.2l-13.9,13.9
+	l-13.9,13.9l13.9,13.9l75.7,75.7l13.9,13.9l13.9-13.9l34-34l13.9-13.9l34-34l13.9-13.9l-13.9-13.9l-47.9-47.9L158.9,35.3L158.9,35.3
+	z"/>
+</svg>
